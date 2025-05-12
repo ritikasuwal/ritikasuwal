@@ -29,8 +29,8 @@ Here are a few projects I've been working on:
 ---
 
 ### 🤝 Let's Connect!
-- 📬 [ritikasuwal@email.com](mailto:ritikasuwal@email.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ritika-suwal-a387b3271/])
+- 📬 [ritikasuwal@email.com](mailto:ritikasuwal1@gmail.com)
+- 💼 [LinkedIn: Ritika Suwal](https://www.linkedin.com/in/ritika-suwal-a387b3271/)
 - 💻 Check out my GitHub contributions and pinned repositories below 👇
 
 ---
